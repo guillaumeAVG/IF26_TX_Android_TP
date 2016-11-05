@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IF26_TX_Android_TP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
